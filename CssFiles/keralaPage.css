@@ -2,7 +2,7 @@
 
 .detailed-view-bg-container {
     background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
-    height: 200vh;
+    height: 120vh;
     background-size: cover;
 }
 
@@ -19,6 +19,8 @@
     border-bottom-right-radius: 8px;
     border-bottom-left-radius: 8px;
     margin: 24px;
+    max-width: 70vw;
+    max-height: 70vh;
 }
 
 .detailed-view-card-heading {
